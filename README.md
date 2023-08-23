@@ -1,16 +1,14 @@
-### Hi there 👋
+###boas vindas ao meu perfil 🌸 
 
-<!--
-**deboralh45/deboralh45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é débora leticia heinek 
 
-Here are some ideas to get you started:
+-estou estudando no alura 
+-estou desenvolvendo uma linguagem no JavaScript
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 
+
+DEBORA.HEINEK@ESCOLA.PR.GOV.BR 
+
+!.[]().
+![image](https://github.com/deboralh45/deboralh45/assets/141252429/cfc51ff2-c8e7-4c76-8652-083cb6360427)
